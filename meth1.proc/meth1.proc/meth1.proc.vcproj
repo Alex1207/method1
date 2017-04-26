@@ -175,6 +175,10 @@
 				>
 			</File>
 			<File
+				RelativePath=".\beast.cpp"
+				>
+			</File>
+			<File
 				RelativePath=".\bird.cpp"
 				>
 			</File>
@@ -218,6 +222,10 @@
 			>
 			<File
 				RelativePath=".\animal.h"
+				>
+			</File>
+			<File
+				RelativePath=".\beast.h"
 				>
 			</File>
 			<File
